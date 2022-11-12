@@ -9,7 +9,7 @@ There is a total of 10 Exercises listed below.
 
 | Problem Set      | Concep                                                                    
 | ---------------- |:--------------------------------------------------------------------------|
-| Problem Set 1.   | Bisection Search, (Finding the optimal Morgage saving rate)
+| Problem Set 1.   | Bisection Search, (Finding the optimal Mortgage saving rate)
 | Problem Set 2.   | Function and Loops, (Game of Hangman)                                      
 | Problem Set 3.   | Working with strings, (Scrabble like word game)                            
 | Problem Set 4.   | Recursion, OOP , (Caesar/shift cipher, Permutations)
