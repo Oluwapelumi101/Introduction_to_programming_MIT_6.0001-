@@ -1,4 +1,4 @@
-# Introduction_to_programming_MIT_6.0001-
+# Introduction_to_programming_MIT_6.0001
 This is my implementation of the Assigments given in the MIT First year introduction to programming course (6.0001 and 6.0002) by Professor Ann Bell, John Guttag and Eric Grimson.
 
 ### Description
@@ -11,7 +11,7 @@ There is a total of 10 Exercises listed below.
 | ---------------- |:--------------------------------------------------------------------------|
 | Problem Set 1.   | Bisection Search, (Finding the optimal Morgage saving rate)
 | Problem Set 2.   | Function and Loops, (Game of Hangman)                                      
-| Problem Set 3.   | Working with strings, (Scrable like word game)                            
+| Problem Set 3.   | Working with strings, (Scrabble like word game)                            
 | Problem Set 4.   | Recursion, OOP , (Caesar/shift cipher, Permutations)
 | Problem Set 5.   | Monitoring news feeds
 | 6.0002
