@@ -21,3 +21,6 @@ There is a total of 10 Exercises listed below.
 | Problem Set 4    | Stochastic simulation, (Stochastic simulation of bacteria population dynamics, and reach conclusions about how various treatment regimens)
 | Problem Set 5.   | Regression analysis, (Regression analysis to model the climate of different areas in the United States in order to find evidence of global warming)
 
+
+Link to course: Syllabus | Introduction to Computer Science and Programming in Python
+Book: Introduction to Computation and Programming Using Python
