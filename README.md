@@ -15,11 +15,11 @@ There is a total of 10 Exercises listed below.
 | Problem Set 4.   | Recursion, OOP , (Caesar/shift cipher, Permutations)
 | Problem Set 5.   | Monitoring news feeds
 | 6.0002
-| Problem Set 1.   | Greedy algorithm, Brute force Algorithm, Dynamic programming, (Finding the optimal way to transport some cows to space
-| Problem Set 2.   | Graph Object creation, Depth First Search, Breath First Seaech,(Finding the shortest path between buildings on the MIT Campus)
-| Problem Set 3    | Object Oriented Simulation Creation, (Creating a simulation of floor clearing robots)
-| Problem Set 4    | Stochastic simulation, (Stochastic simulation of bacteria population dynamics, and reach conclusions about how various treatment regimens)
-| Problem Set 5.   | Regression analysis, (Regression analysis to model the climate of different areas in the United States in order to find evidence of global warming)
+| Problem Set 6.   | Greedy algorithm, Brute force Algorithm, Dynamic programming, (Finding the optimal way to transport some cows to space
+| Problem Set 7.   | Graph Object creation, Depth First Search, Breath First Seaech,(Finding the shortest path between buildings on the MIT Campus)
+| Problem Set 8    | Object Oriented Simulation Creation, (Creating a simulation of floor clearing robots)
+| Problem Set 9    | Stochastic simulation, (Stochastic simulation of bacteria population dynamics, and reach conclusions about how various treatment regimens)
+| Problem Set 10.   | Regression analysis, (Regression analysis to model the climate of different areas in the United States in order to find evidence of global warming)
 
 
 Link to course: 
