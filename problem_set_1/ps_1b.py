@@ -2,10 +2,10 @@
 # A program to calculate how many months one has to save for a house with a certain income and return on saving at a certian rate
 
 # Taking User input
-# annual_salary = int(input("How much do you earn yearly? "))
-# portion_saved = int(input("What percentage of your Monthly Salary would you like to save? "))
-# total_cost = int(input("How Much does our Dream Home Cosr? "))
-# semi_annual_raise = int(input("By what percentage does your salary increase every 6 month? "))
+annual_salary = int(input("How much do you earn yearly? "))
+portion_saved = int(input("What percentage of your Monthly Salary would you like to save? "))
+total_cost = int(input("How Much does our Dream Home Cosr? "))
+semi_annual_raise = int(input("By what percentage does your salary increase every 6 month? "))
 
 # fixed test case
 # annual_salary = 75000

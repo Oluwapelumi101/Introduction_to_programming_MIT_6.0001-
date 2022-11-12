@@ -11,7 +11,7 @@ total_cost = int(input("How Much does our Dream Home Cosr? "))
 semi_annual_raise = int(input("By what percentage does your salary increase every 6 month? "))
 duration = int(input('How many months would you like to spend saving? '))
 
-# fixed test case
+# Some test inputs
 # starting_salary = 120000
 # portion_saved = 0
 # total_cost = 1000000
