@@ -22,5 +22,8 @@ There is a total of 10 Exercises listed below.
 | Problem Set 5.   | Regression analysis, (Regression analysis to model the climate of different areas in the United States in order to find evidence of global warming)
 
 
-Link to course: Syllabus | Introduction to Computer Science and Programming in Python
+Link to course: 
+* https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/pages/syllabus/
+* https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/
+
 Book: Introduction to Computation and Programming Using Python
