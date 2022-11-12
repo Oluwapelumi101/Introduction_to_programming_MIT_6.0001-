@@ -1,0 +1,4 @@
+a = "t_ _ t"
+b = "taat"
+
+print(a.find(t))
